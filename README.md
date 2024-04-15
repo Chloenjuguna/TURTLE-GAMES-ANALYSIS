@@ -31,5 +31,5 @@ It is recommended that Turtle Games leverage the correlation between North Ameri
 
 ### Conclusion
 
-This comprehensive analysis offers actionable insights into customer behaviour, sales trends, and predictive modelling, empowering Turtle Games to optimise marketing strategies, refine product offerings, and boost sales growth. Leveraging these insights/recommendations and implementing targeted initiatives can enhance customer engagement, foster brand loyalty, and drive overall sales for Turtle Games.
+This analysis offers actionable insights into customer behaviour, sales trends, and predictive modelling, empowering Turtle Games to optimise marketing strategies, refine product offerings, and boost sales growth. Leveraging these insights/recommendations and implementing targeted initiatives can enhance customer engagement, foster brand loyalty, and drive overall sales for Turtle Games.
 
