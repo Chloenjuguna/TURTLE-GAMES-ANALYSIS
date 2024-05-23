@@ -8,7 +8,13 @@ Turtle Games, a global game manufacturer and retailer, aims to enhance overall s
 3.	Utilise customer reviews to inform marketing campaigns and business improvements.
 4.	Identify actionable trends and insights from sales data.
 5.	Evaluate the suitability of sales data for modelling purposes.
-6.	Uncover possible relationships between North American, European, and Global Sales to inform strategic decision-making and business planning. 
+6.	Uncover possible relationships between North American, European, and Global Sales to inform strategic decision-making and business planning.
+
+### Tools:
+- Python (Jupyter Notebook)
+- R
+- Excel
+
 
 ### Analytical approach
 
